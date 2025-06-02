@@ -18,13 +18,6 @@ This integration allows you to control your Mitsubishi Electric climate control 
 7. Find "Kumo Cloud" in the HACS integrations list and install it
 8. Restart Home Assistant
 
-### Manual Installation
-
-1. Download the latest release from the [releases page](https://github.com/jjustinwilson/comfort_HA/releases)
-2. Extract the zip file
-3. Copy the `custom_components/kumo_cloud` folder to your Home Assistant `custom_components` directory
-4. Restart Home Assistant
-
 ## Configuration
 
 1. Go to **Settings** > **Devices & Services** > **Add Integration**
