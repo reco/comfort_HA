@@ -1,4 +1,4 @@
-# Kumo Cloud Integration
+# Mitsubishi Comfort Integration
 
 Control your Mitsubishi Electric climate control systems through the Kumo Cloud API.
 

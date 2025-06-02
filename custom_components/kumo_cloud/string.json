@@ -2,7 +2,7 @@
     "config": {
       "step": {
         "user": {
-          "title": "Kumo Cloud Setup",
+          "title": "Mitsubishi Comfort Setup",
           "description": "Enter your Kumo Cloud credentials to connect your Mitsubishi climate control system.",
           "data": {
             "username": "Username (Email)",
@@ -37,8 +37,8 @@
     "options": {
       "step": {
         "init": {
-          "title": "Kumo Cloud Options",
-          "description": "Configure options for your Kumo Cloud integration."
+          "title": "Mitsubishi Comfort Options",
+          "description": "Configure options for your Mitsubishi Comfort integration."
         }
       }
     }
